@@ -15,7 +15,10 @@ body {
 }
 
 .container {
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
+
+  background: linear-gradient(90deg, #cfecd0, #a0cea7, #9ec0db);
+
   position: relative;
 }
 a {
@@ -236,7 +239,9 @@ a {
 
 /* !!!<section_portfolio!!!  */
 .container_portfolio {
-  background-color: #fff;
+  /* background-color: #fff; */
+
+  background: linear-gradient(90deg, #b9deed, #efefef);
   padding-top: 112px;
 }
 
