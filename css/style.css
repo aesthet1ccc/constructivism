@@ -167,6 +167,9 @@ a {
   margin-bottom: 107px;
   width: 15%;
 }
+.man {
+  max-width: 100px;
+}
 
 /* !!!<section__about>!!! /*/
 
